@@ -30,7 +30,8 @@ make a raggedy looking microSIM. It works great in theory, but I've never seen i
 Try to find a China Telecom store that will sell you a cheap phone for voice and text - $20 US will get you
 a long way on text and voice in China.
 
-
+If you happen to run out of credit for your phone, and want to top up while abroad, you can use [this](http://www.china-mobile-phones.com/china-prepaid-sim.html ) site to top up your balance on China 
+Mobile from abroad. 
 
 ## Places You Should Go
 
